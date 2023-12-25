@@ -1,0 +1,15 @@
+# Solution de l'epreuve 'À l'aise'
+
+Bonjour,
+Il faut aller sur le site : (https://www.dcode.fr/vigenere-cipher) : 
+- Mettre dans la zone *Vigenere ciphertext* **le texte à décrypter.**
+- Mettre dans *Decryption method (Knowing the Key/Password):* **FCSC**
+- Cliquer sur **Decrypt**.
+
+On aura ainsi la solution suivante : 
+*Bonjour cher agent ! Votre prochaine mission, si vous  
+l'acceptez bien sur, sera d'infiltrer le reseau  
+souterrain ou se cache nos ennemis. Rendez-vous a  
+Nantes le 29 avril pour le debut de votre mission.*
+
+Merci 
